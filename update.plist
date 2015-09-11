@@ -12,9 +12,9 @@
        <key>CFBundleVersion</key>
        <string>1</string>
        <key>CFBundleShortVersionString</key>
-       <string>1.0.0</string>
+       <string>1.0.1</string>
        <key>URL</key>
-       <string>https://github.com/leancloud/github-id-enhancer/releases/download/v1.0.0/github-id-enhancer.safariextz</string>
+       <string>https://github.com/leancloud/github-id-enhancer/releases/download/v1.0.1/github-id-enhancer.safariextz</string>
      </dict>
    </array>
 </dict>
